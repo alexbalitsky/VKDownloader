@@ -1,0 +1,68 @@
+.button{
+    visibility: hidden;
+}
+
+#pathMusicButton{
+    visibility: visible;
+}
+
+#pathPhotosButton{
+    visibility: visible;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-opacity: 0;
+}
+
+.tab-pane{
+    -fx-tab-min-width: 220px;
+}
+
+.tab{
+    -fx-background-insets: 0 1 0 1,0,0;
+}
+.tab-pane .tab
+{
+    -fx-background-color: #e6e6e6;
+
+}
+
+.tab-pane .tab:selected
+{
+    -fx-background-color: #9fc1ff;
+}
+
+.tab .tab-label {
+    -fx-alignment: CENTER;
+    -fx-text-fill: #828282;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+}
+
+.tab:selected .tab-label {
+    -fx-alignment: CENTER;
+    -fx-text-fill: #3e65b9;
+}
+
+
+.titled-pane .title {
+    -fx-font-size: 9pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: #9fc1ff;
+}
+.titled-pane:expanded .title {
+    -fx-base: #9fc1ff;
+    -fx-text-fill: white;
+}
+
+.list-cell:hover {
+    -fx-background-color: #9fc1ff;
+}
+
+.grid {
+    -fx-background-radius: 5.0;
+    -fx-background-insets: 0.0 5.0 0.0 5.0;
+    -fx-padding: 10;
+    -fx-hgap: 10;
+    -fx-vgap: 10;
+}
