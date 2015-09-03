@@ -96,7 +96,7 @@ public class Controller {
             JSONObject object = (JSONObject) array.get(i);
             Album album = new Album(object);
 
-            String responsePhotos = Executor.getInstance().execute(photosRequest + "album_id=" + album.getId() + "&access_token=" + Authentification.getInstance().getAccessToken() + "&owner_id=" + owner);
+            String responsePhotos = Executor.getInstance().execute(photosRequest + "album_id=" + album.getId() + "&access_token=" + Authentification.getInstance().getAccessToken() );
             JSONArray photosList = parse(responsePhotos);
             album.setPhotosList(photosList);
 

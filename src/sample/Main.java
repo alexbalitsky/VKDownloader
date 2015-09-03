@@ -5,9 +5,6 @@ import javafx.application.Application;
 import javafx.stage.Stage;
 import sample.view.Controller;
 
-import javax.print.attribute.standard.Fidelity;
-import java.io.File;
-
 /**
  * Головний клас
  */
