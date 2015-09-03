@@ -7,50 +7,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/json-simple-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\.idea\artifacts\JavaFXApp.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\Music\Пыльца - В спину ножи во время объятий.mp3" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\Authentification$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\Authentification.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\Main.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\images\check19.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\images\diagram.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\manager\Executor.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\manager\PhotosDownloadManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\manager\PhotosDownloadManager.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\manager\SongDownloadManager$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\manager\SongDownloadManager.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\model\Album.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\model\Friend.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\model\Photo.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\model\Song.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\style\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller$1.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller$2.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller$3.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller$4.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller$5.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller$6.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller$7.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller$8.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller$9.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\Controller.class" afterPath="" />
-      <change type="DELETED" beforePath="D:\IdeaProjects\Vk\out\production\Vk\sample\view\downloader.fxml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/view/Controller.java" afterPath="$PROJECT_DIR$/src/sample/view/Controller.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sample/Main.java" afterPath="$PROJECT_DIR$/src/sample/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Vk.iml" afterPath="$PROJECT_DIR$/Vk.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/audioPath.txt" afterPath="$PROJECT_DIR$/audioPath.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photoPath.txt" afterPath="$PROJECT_DIR$/photoPath.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -188,8 +145,8 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/view/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.797891">
-              <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.887522">
+              <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -264,6 +221,11 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="alex" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -756,16 +718,23 @@
       <workItem from="1436939386008" duration="236000" />
       <workItem from="1436940424266" duration="366000" />
       <workItem from="1437212034114" duration="104000" />
-      <workItem from="1441276575173" duration="2619000" />
+      <workItem from="1441276575173" duration="3134000" />
     </task>
+    <task id="LOCAL-00001" summary="pushing">
+      <created>1441279338463</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1441279338463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239074000" />
+    <option name="totallyTimeSpent" value="239589000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -774,7 +743,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36515912" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -809,6 +778,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pushing" />
+    <option name="LAST_COMMIT_MESSAGE" value="pushing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1376,8 +1349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/view/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.797891">
-          <caret line="69" column="35" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.887522">
+          <caret line="72" column="29" selection-start-line="72" selection-start-column="29" selection-end-line="72" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
